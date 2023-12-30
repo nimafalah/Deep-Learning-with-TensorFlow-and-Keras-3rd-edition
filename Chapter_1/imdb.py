@@ -1,6 +1,6 @@
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models, preprocessing
-import tensorflow_datasets as tfds
+
 
 max_len = 200
 n_words = 10000
